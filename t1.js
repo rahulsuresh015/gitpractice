@@ -1,3 +1,2 @@
 first commi
-second
-thired t
+secondt
