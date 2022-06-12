@@ -4,12 +4,7 @@ second
 shekar is added
 thirswt
 =======
-
-
-
-
-
-
-
 added feature1
->>>>>>> feature1
+feat1 push
+
+	>>>>>>> feature1
